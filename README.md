@@ -1,128 +1,126 @@
-🚀 SmartGov – AI-Assisted Civic Intelligence Platform
+# 🚀 SmartGov – AI-Assisted Civic Intelligence Platform
+
 SmartGov is an AI-powered civic intelligence system designed to streamline citizen grievance management and enable proactive governance for smart cities.
 
 It empowers citizens to report issues easily while providing administrators with real-time analytics, priority classification, and hotspot detection.
 
-🌍 Problem Statement
+---
+
+## 🌍 Problem Statement
+
 Urban local bodies face major challenges:
 
-Fragmented grievance systems
+- Fragmented grievance systems  
+- Delayed issue resolution  
+- Lack of data-driven decision-making  
+- No real-time risk analysis  
+- Poor transparency & tracking  
 
-Delayed issue resolution
+Traditional complaint systems are reactive — SmartGov makes governance **predictive and intelligent**.
 
-Lack of data-driven decision-making
+---
 
-No real-time risk analysis
+## 💡 Our Solution
 
-Poor transparency & tracking
-
-Traditional complaint systems are reactive — SmartGov makes governance predictive and intelligent.
-
-💡 Our Solution
 SmartGov provides:
 
-📌 Citizen complaint dashboard
+- 📌 Citizen complaint dashboard  
+- 📷 Image upload for issue verification  
+- 🔄 Real-time complaint tracking  
+- 🧠 AI-based auto categorization  
+- ⚡ Priority assignment (Low / Medium / High)  
+- 📊 Analytics dashboards  
+- 📍 Area-wise hotspot detection  
 
-📷 Image upload for issue verification
+---
 
-🔄 Real-time complaint tracking
+## 🧠 Core AI Features
 
-🧠 AI-based auto categorization
+- Automatic complaint classification  
+- Risk-based priority scoring  
+- Historical trend analysis  
+- Area hotspot identification  
+- Data-driven governance insights  
 
-⚡ Priority assignment (Low / Medium / High)
+---
 
-📊 Analytics dashboards
+## 🏗 Tech Stack
 
-📍 Area-wise hotspot detection
+### Frontend
+- React + TypeScript  
+- Vite  
+- Tailwind CSS  
 
-🧠 Core AI Features
-Automatic complaint classification
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
 
-Risk-based priority scoring
+### AI Layer
+- Machine Learning-based categorization  
+- Pattern recognition models  
 
-Historical trend analysis
+---
 
-Area hotspot identification
+## 👥 User Roles
 
-Data-driven governance insights
+### 👤 Citizen
+- Submit complaints  
+- Upload images  
+- Track resolution status  
+- View progress updates  
 
-🏗 Tech Stack
-Frontend
+### 🛠 Administrator
+- Filter complaints  
+- Sort by priority  
+- Manage case lifecycle  
+- View analytics dashboards  
+- Monitor high-risk zones  
 
-React + TypeScript
+---
 
-Vite
+## 📊 Key Features
 
-Tailwind CSS
+- Clean and intuitive UI  
+- Centralized case management  
+- Real-time dashboard updates  
+- Data visualizations (bar, pie, time-series charts)  
+- Scalable smart city architecture  
 
-Backend
+---
 
-Node.js
+## 🚀 Installation & Setup
 
-Express.js
+### 1️⃣ Clone the Repository
 
-MongoDB
-
-AI Layer
-
-ML-based categorization
-
-Pattern recognition models
-
-👥 User Roles
-👤 Citizen
-Submit complaints
-
-Upload images
-
-Track resolution status
-
-View progress updates
-
-🛠 Administrator
-Filter complaints
-
-Sort by priority
-
-Manage case lifecycle
-
-View analytics dashboards
-
-Monitor high-risk zones
-
-📊 Key Features
-Clean and intuitive UI
-
-Centralized case management
-
-Real-time dashboard updates
-
-Data visualizations (bar, pie, time-series charts)
-
-Scalable smart city architecture
-
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-bash
-Copy code
+```bash
 git clone https://github.com/SoumayanChatterjee/SmartGov.git
 cd SmartGov
-2️⃣ Install Dependencies
-bash
-Copy code
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
 npm install
-3️⃣ Run Development Server
-bash
-Copy code
+```
+
+### 3️⃣ Run Development Server
+
+```bash
 npm run dev
+```
+
 The app will run on:
 
-arduino
-Copy code
+```
 http://localhost:5173
-📁 Project Structure
-pgsql
-Copy code
+```
+
+---
+
+## 📁 Project Structure
+
+```
 SmartGov/
 │
 ├── src/
@@ -135,32 +133,38 @@ SmartGov/
 ├── index.html
 ├── vite.config.ts
 └── package.json
-🎯 Impact
+```
+
+---
+
+## 🎯 Impact
+
 SmartGov enables:
 
-Faster complaint resolution
+- Faster complaint resolution  
+- Improved transparency  
+- Proactive risk management  
+- Data-backed governance decisions  
+- Increased citizen trust  
 
-Improved transparency
+---
 
-Proactive risk management
+## 🌆 Future Enhancements
 
-Data-backed governance decisions
+- Mobile application  
+- Geo-mapping integration  
+- Predictive infrastructure failure alerts  
+- Integration with municipal ERP systems  
+- Multilingual interface  
 
-Increased citizen trust
+---
 
-🌆 Future Enhancements
-Mobile application
+## 🤝 Contribution
 
-Geo-mapping integration
+Contributions are welcome. Fork the repository and submit a pull request.
 
-Predictive infrastructure failure alerts
+---
 
-Integration with municipal ERP systems
+## 📜 License
 
-Multilingual interface
-
-🤝 Contribution
-Contributions are welcome. Fork the repo and submit a pull request.
-
-📜 License
 This project is open-source and available under the MIT License.
